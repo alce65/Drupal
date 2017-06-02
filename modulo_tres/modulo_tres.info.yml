@@ -1,0 +1,6 @@
+name: Modulo Tres
+type: module 
+description: Modulo Tres
+core: 8.x
+package: Custom
+version: 1.0

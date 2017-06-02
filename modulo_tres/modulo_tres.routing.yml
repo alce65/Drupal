@@ -1,0 +1,7 @@
+modulo_tres_settings:
+    path: '/modulo/tres'
+    defaults:
+        _controller: '\Drupal\modulo_tres\Controller\ModuloTresController::myCallbackMethod'
+        _title: 'Modulo Tres'
+#    requirements:
+#        _permission: 'view Modulo Tres'

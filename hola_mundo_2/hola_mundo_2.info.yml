@@ -1,0 +1,9 @@
+name: Hola Mundo 2
+type: module 
+description: 'Modulo Hola Mundo 2'
+core: 8.x
+package: Custom
+version: 1.0
+
+#dependencies:
+#- custom:hola_mundo

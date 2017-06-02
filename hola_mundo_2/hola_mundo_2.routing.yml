@@ -1,0 +1,16 @@
+hola_mundo_2: 
+    path: '/hola/mundo2'
+    defaults: 
+        _controller: '\Drupal\hola_mundo_2\Controller\HolaMundo2Controller::primerSaludo'
+        _title: 'Hola Mundo 2'
+    requirements: 
+        _permission: 'access content'        
+
+# hola_mundo_2.description: 
+#    path: /hola_mundo_2/example 
+#    defanlts: 
+#        _controller: '\Drupal\hola_mundo_2\Controller\HolaMundo2Controller::description'
+#        _title: 'Hola Mundo 2'
+#    requirements: 
+#        _access: 'TRUE' 
+

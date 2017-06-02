@@ -1,0 +1,6 @@
+name: Hola Mundo
+type: module 
+description: Modulo Hola Mundo
+core: 8.x
+package: Custom
+version: 1.0
